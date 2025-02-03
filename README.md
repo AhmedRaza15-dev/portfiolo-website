@@ -26,10 +26,12 @@ This portfolio website is designed to provide a brief overview of my background,
 - GitHub Pages (for hosting and deployment)
   
 # Demonstration
--index.html and style.css
+index.html and style.css
 ![image](https://github.com/user-attachments/assets/4f700fc3-9e0e-4d92-9d96-e5f73ae77815)
--Email.html
+Email.html
 ![image](https://github.com/user-attachments/assets/7dcb1cf7-0a77-4942-967f-7c1cf0913222)
+Home.html
+![image](https://github.com/user-attachments/assets/fabd3bf6-1002-4c26-9196-adb6567ba90b)
 
 
 # License

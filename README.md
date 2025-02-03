@@ -5,11 +5,11 @@ Here's a sample GitHub README for a simple portfolio website:
 A simple portfolio website showcasing my projects, skills, and experience.
 
 # Table of Contents
-- #about
-- #features
-- #technologies-used
-- #getting-started
-- #license
+- #about page
+- #Email Page
+- #Home page
+- #Address Page
+- #index page
 
 # About
 This portfolio website is designed to provide a brief overview of my background, skills, and experience. It includes a showcase of my projects, as well as my contact information.

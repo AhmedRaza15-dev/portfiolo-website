@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background: url(jj.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+            
+        }
+        .formcontainer{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 300px;
+            height: 400px;
+            background-color: grey;
+            border-radius: 15px;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <div class="formcontainer">
+        <form action="/submit" method="post">
+            <h1>Email page</h1>
+            <!-- Text input for username -->
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+            <br><br>
+        
+            <!-- Password input -->
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            <br><br>
+        
+            <!-- Radio buttons for gender -->
+            <label>Gender:</label>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+            <br><br>
+        
+            <!-- Submit button -->
+            <input type="submit" value="Submit">
+          </form>
+    </div>
+</body>
+
+</html>

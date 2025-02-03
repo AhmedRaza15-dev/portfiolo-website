@@ -22,9 +22,7 @@ This portfolio website is designed to provide a brief overview of my background,
 
 # Technologies Used
 - HTML5
-- CSS3 (using Sass)
-- JavaScript (using ES6+ syntax)
-- React (for building reusable UI components)
+- CSS3 
 - GitHub Pages (for hosting and deployment)
 
 # Getting Started
@@ -40,6 +38,4 @@ This project is licensed under the MIT License. See the LICENSE for details.
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 # Acknowledgments
-- [List any acknowledgments or credits here]
-
 I hope this sample README helps you create a great GitHub README for your portfolio website!
